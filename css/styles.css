@@ -1,9 +1,17 @@
   body {
     background-color: #4E944F;
   }
-
   hr {
     background-color: white;
     border-style: none;
     height: 2px;
+  }
+  h1 {
+    color: yellow;
+  }
+  h3 {
+    color: purple;
+  }
+  h4 {
+    color: red;
   }
