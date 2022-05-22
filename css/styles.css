@@ -11,7 +11,21 @@
   }
   h3 {
     color: purple;
+    padding-left: 30px;
   }
   h4 {
     color: red;
+  }
+
+  p {
+    padding-left: 50px;
+    padding-right: 50px
+  }
+
+  ul {
+    padding-left: 60px
+  }
+
+  td {
+    padding-left: 40px;
   }
