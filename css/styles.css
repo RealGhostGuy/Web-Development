@@ -1,18 +1,22 @@
   body {
     background-color: #4E944F;
   }
+
   hr {
     background-color: white;
     border-style: none;
     height: 2px;
   }
+
   h1 {
     color: yellow;
   }
+
   h3 {
     color: purple;
     padding-left: 30px;
   }
+
   h4 {
     color: red;
   }
@@ -28,4 +32,8 @@
 
   td {
     padding-left: 40px;
+  }
+
+  .me {
+    border-radius: 100%;
   }
